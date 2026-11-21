@@ -1,3 +1,4 @@
+/*
 // // forEach
 // let fruits = ['Banana', 'apple', 'mango', 'orange'];
 // fruits.forEach((item, index) => {
@@ -59,3 +60,5 @@ const students = [
 const pasout = students.filter((students) => students.score >= 35);
 // console.log(pasout);
 console.log(pasout.map(s=>s.name));
+*/
+
